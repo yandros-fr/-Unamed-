@@ -267,4 +267,4 @@ async def addMaker(ctx, member: discord.Member, *, reason="Aucune raison n'a ét
         ctx.send(f"Commande: addMaker || id = {ctx.author.id} [Ce n'est pas la bonne Id]")
 
 # BOT TOKEN :
-bot.run("NzU0MjgyNTg2MDc5MTAxMDA4.X1yeZg.e8hkWq-x7bL6IkxLh75jRH_znCI")
+bot.run("<your TOKEN>")
